@@ -1,0 +1,12 @@
+
+Specifications of Mercedes-Benz A Class: 
+
+Gas Mileage		25 mpg City/34 mpg Hwy
+Engine			Intercooled Turbo Premium Unleaded I-4, 2.0 L
+EPA Class		Subcompact Cars
+Style Name		A 220 4MATIC Sedan
+Drivetrain		All Wheel Drive
+Passenger Capacity	5
+Passenger Doors		4
+Body Style		4dr Car
+Transmission		7-Speed Dual Clutch

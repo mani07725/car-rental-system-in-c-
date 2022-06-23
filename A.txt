@@ -1,0 +1,12 @@
+Specifications of 2021 Toyota Corolla: 
+
+Gas Mileage		31 mpg City/40 mpg Hwy
+Engine			Regular Unleaded I-4, 2.0 L
+EPA Class		Compact Cars
+Style Name		APEX SE CVT (SE)
+Drivetrain		Front Wheel Drive
+Passenger Capacity	5
+Passenger Doors		4
+Body Style		4 doors Car
+
+
